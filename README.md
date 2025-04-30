@@ -76,7 +76,6 @@ Result Date/Time: 2025-04-30 16:00
 
 Name: Yara Khattab
 
-GitHub: yarakhattab.
-
-Email: yarakhattab16@gmail.com.
+📧 Email: yarakhattab16@gmail.com
+🔗 GitHub: github.com/yarakhattab
 
